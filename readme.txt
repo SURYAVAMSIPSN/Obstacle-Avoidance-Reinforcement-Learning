@@ -23,7 +23,7 @@ Run the main.py
 
 It will launch the simulator and environment will start running.
 
-The trained weights are available in the output folder
+The trained weights are available in the output.rar zip file. 
 
 To train the network again, run main.py --train  
 
